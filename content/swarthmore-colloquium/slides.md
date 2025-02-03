@@ -1,11 +1,16 @@
 ---
 marp: true
-theme: "rose-pine"
+theme: "rose-pine-moon"
 ---
 
-# Integrating Computing in Physics Curricula
-## Danny Caballero, Professor
-## Michigan State University
+# Integrating Computing into Physics Curricula
+## Danny Caballero (he/they)
+Lappan Phillips Professor
+- Department of Physics and Astronomy
+- Department of Computational Mathematics, Science, and Engineering
+- CREATE for STEM Institute
+### Michigan State University
+
 
 ---
 
