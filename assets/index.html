@@ -8,38 +8,38 @@
 </head>
 <body>
     <div class="container">
-        <h1>Slide Deck Library</h1>
             <span class="theme-toggle" onclick="toggleTheme()">
                 <img src="icons/moon.png" id="theme-icon" alt="Toggle Theme">
             </span>
-        </h1>
-        {% for deck in decks %}
-        <div class="deck">
-            <div class="title">
-                {{ deck.title }}
-            </div>
-            <div class="date">{{ deck.date }}</div>
-            {% if deck.title_image %}
-                <a href = "{{ deck.html_dark }}" target="_blank"><img src="{{ deck.title_image }}" alt="Title Image" class="title-image"></a>
-            {% endif %}
-            {% if deck.location %}
-            <div class="location">{{ deck.location }}</div>
-            {% endif %}
-            <div class="tags">
-                {% for tag in deck.tags %}
-                <span class="tag">{{ tag }}</span>
+            <div class="deck-container">
+                {% for deck in decks %}
+                <div class="deck">
+                    <div class="title">{{ deck.title }}</div>
+                    <div class="date">{{ deck.date }}</div>
+                    {% if deck.title_image %}
+                        <a href="{{ deck.html_dark }}" target="_blank">
+                            <img src="{{ deck.title_image }}" alt="Title Image" class="title-image">
+                        </a>
+                    {% endif %}
+                    {% if deck.location %}
+                    <div class="location">{{ deck.location }}</div>
+                    {% endif %}
+                    <div class="tags">
+                        {% for tag in deck.tags %}
+                        <span class="tag">{{ tag }}</span>
+                        {% endfor %}
+                    </div>
+                    <div class="abstract"><b>Abstract:</b> {{ deck.abstract }}</div>
+                    <div class="links">
+                        <a class="link" href="{{ deck.html_light }}" target="_blank">HTML Light</a>
+                        <a class="link" href="{{ deck.html_dark }}" target="_blank">HTML Dark</a>
+                        <a class="link" href="{{ deck.pdf_light }}" download>PDF Light</a>
+                        <a class="link" href="{{ deck.pdf_dark }}" download>PDF Dark</a>
+                    </div>
+                </div>
                 {% endfor %}
             </div>
-            <div class="abstract"><b>Abstract:</b> {{ deck.abstract }}</div>
-            <div class="links">
-                <a class="link" href="{{ deck.html_light }}" target="_blank">HTML Light</a>
-                <a class="link" href="{{ deck.html_dark }}" target="_blank">HTML Dark</a>
-                <a class="link" href="{{ deck.pdf_light }}" download>PDF Light</a>
-                <a class="link" href="{{ deck.pdf_dark }}" download>PDF Dark</a>
-            </div>
-        </div>
-        {% endfor %}
-    </div>
+            
     <script>
         function toggleTheme() {
             const themeLink = document.getElementById('theme-link');
