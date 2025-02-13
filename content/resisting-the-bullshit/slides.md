@@ -13,15 +13,26 @@ Union of Tenure System Faculty Organizer
 
 ---
 
+# Major Caveats
+
+- I am not a lawyer
+- My advice comes from personal experience
+- You do not have to do anything I suggest
+- You do not have to stay for this talk
+
+## My views do not represent the views of MSU, the College of Natural Science, or the Department of Physics and Astronomy
+
+---
+
 # What has happened?
 
 ## The president has issued and his administration are attempting to enforce several executive orders:
 
-* Cancellation of anything DEI related
-* Federal freeze on grants and loans; cuts to current NIH and NSF grants
-* Stoppage of work at US AID, CPB, and other federal agencies
-* Reversal of Title IX protections for women and LGBTQ+ individuals
-* And so much more...
+- Cancellation of anything DEI related
+- Federal freeze on grants and loans; cuts to current NIH and NSF grants
+- Stoppage of work at US AID, CPB, and other federal agencies
+- Reversal of Title IX protections for women and LGBTQ+ individuals
+- And so much more...
 
 ## These executive orders are callous, cruel, and dangerous.
 
@@ -29,9 +40,9 @@ Union of Tenure System Faculty Organizer
 
 # A few things to remember
 
-* You are not alone in any of your feelings; we are all in this together
-* You don't have to agree with everything I say to be a part of this community; you are welcome here
-* You don't have to do anything I suggest; but it would be sweet if you did
+- You are not alone in any of your feelings; we are all in this together
+- You don't have to agree with everything I say to be a part of this community; you are welcome here
+- Again, you don't have to do anything I suggest
 
 ## Our collective power is our greatest strength
 
@@ -43,27 +54,23 @@ Union of Tenure System Faculty Organizer
 
 ---
 
-# Interactions with Law Enforcement
+# Things you will learn today
 
-If you are approached by law enforcement, you have the right to remain silent
+## How to resist the bullshit
 
-* You do not have to answer any questions
-* You do not have to show ID
-* You do not have to consent to a search
-* You do not have to open your door
-* You do not have to do anything without a **warrant signed by a judge**
-
-Cops are very good at getting you to talk to them. They are seeking your consent to search you, your car, your home, etc.
-
-## "I don't have anything to say. I want to speak to a lawyer."
+- What your rights are when interacting with law enforcement
+- Tools and strategies for ensuring your rights are respected and your safety is maintained
+- How to support your friends and colleagues who may be targeted
+- How to activate yourself, your friends, and your family against these attacks
+- That you have a resource in me anytime you need it
 
 ---
 
 # Know that some of us avoid interactions with law enforcement because we have been taught to
 
-* My experience is not yours and yours is not mine
-* We all have different experiences with law enforcement
-* Some of your friends might be incredibly uncomfortable around law enforcement
+- My experience is not yours and yours is not mine
+- We all have different experiences with law enforcement
+- Some of your friends might be incredibly uncomfortable around law enforcement
 
 ## Know your rights (ACLU.org)
 
@@ -71,11 +78,28 @@ Cops are very good at getting you to talk to them. They are seeking your consent
 
 ---
 
+# Interactions with Law Enforcement
+
+If you are approached by law enforcement, you have the right to remain silent
+
+- You do not have to answer any questions
+- You do not have to show ID
+- You do not have to consent to a search
+- You do not have to open your door
+- You do not have to do anything without a **warrant signed by a judge**
+
+Cops are very good at getting you to talk to them. They are seeking your consent to search you, your car, your home, etc.
+
+## "I don't have anything to say. I want to speak to a lawyer."
+
+
+---
+
 # Immigration and Customs Enforcement
 
-* If you are approached by ICE, you have the right to remain silent
-* ICE cannot enter your home without a warrant signed by a judge
-* ICE cannot enter our classrooms, research spaces, or offices without a warrant signed by a judge
+- If you are approached by ICE, you have the right to remain silent
+- ICE cannot enter your home without a warrant signed by a judge
+- ICE cannot enter our classrooms, research spaces, or offices without a warrant signed by a judge
 
 Red cards are available from the Immirgrant Legal Resource Center 
 <https://www.ilrc.org/red-cards-tarjetas-rojas>
@@ -93,3 +117,35 @@ Can be handed to law enforcement without opening a door.
 ![Red card 100%](./images/redcards.png)
 
 ## Print some and keep them handy
+
+---
+
+# MSU's work to resist the bullshit
+
+---
+
+# MSU will not respond publicly
+
+---
+
+# How can you advocate for MSU to protect its students, faculty, and staff?
+
+## You should not be muzzled
+
+## You have the right to speak out
+
+## You have the right to organize
+
+---
+
+# We need to be loud
+
+---
+
+# We need to be visible
+
+---
+
+# We need to be organized
+
+---
