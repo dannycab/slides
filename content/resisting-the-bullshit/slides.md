@@ -78,6 +78,16 @@ Union of Tenure System Faculty Organizer
 
 ---
 
+# The Fourth Amendment
+
+> The right of the people to be secure in their persons, houses, papers, and effects, against unreasonable searches and seizures, shall not be violated, and no Warrants shall issue, but upon probable cause, supported by Oath or affirmation, and particularly describing the place to be searched, and the persons or things to be seized.
+
+Plainly, you have the right to be free from unreasonable searches and seizures. Law enforcement has limited authority to search you, your home, or your belongings.
+
+Source: <https://constitutioncenter.org/the-constitution/amendments/amendment-iv/interpretations/121>
+
+---
+
 # Interactions with Law Enforcement
 
 If you are approached by law enforcement, you have the right to remain silent
@@ -90,21 +100,23 @@ If you are approached by law enforcement, you have the right to remain silent
 
 Cops are very good at getting you to talk to them. They are seeking your consent to search you, your car, your home, etc.
 
-## "I don't have anything to say. I want to speak to a lawyer."
+## "I don't have anything to say. I don't consent to be searched."
 
 
 ---
 
 # Immigration and Customs Enforcement
 
-- If you are approached by ICE, you have the right to remain silent
+If you are approached by ICE, you have the right to remain silent
+
 - ICE cannot enter your home without a warrant signed by a judge
-- ICE cannot enter our classrooms, research spaces, or offices without a warrant signed by a judge
+- MSU classrooms, research spaces, and offices are not public spaces
+- ICE cannot enter these spaces without a warrant signed by a judge
 
 Red cards are available from the Immirgrant Legal Resource Center 
 <https://www.ilrc.org/red-cards-tarjetas-rojas>
 
-## "I don't have anything to say. I want to speak to a lawyer."
+## "I don't have anything to say. I'm asking you to leave."
 
 ---
 
@@ -120,11 +132,16 @@ Can be handed to law enforcement without opening a door.
 
 ---
 
-# MSU's work to resist the bullshit
-
----
-
 # MSU will not respond publicly
+
+- MSU is a public institution
+- MSU must respond to Freedom of Information Act (FOIA) requests
+- MSU has already received FOIA requests 
+
+## University leadership will not speak out publicly
+
+- Read their emails carefully
+- Read the reporting thoroughly
 
 ---
 
@@ -138,14 +155,74 @@ Can be handed to law enforcement without opening a door.
 
 ---
 
-# We need to be loud
+# What can we do?
+
+## We need to be loud
+
+## We need to be visible
+
+## We need to be organized
+
+# We need to do BIG. PUBLIC. SHIT.
 
 ---
 
-# We need to be visible
+# Actions we can take
+
+1. **Rallies** - [MSU has 52,000 students, nearly 6,000 academic staff, and more than 7,000 administrative staff](https://en.wikipedia.org/wiki/Michigan_State_University). That's 65,000 people! All of us are going to be affected if these attacks continue. If even 2% of us rally, that's still 1,300 people.
+2. **Teach-Ins** - Our job is to educate and that is not just within our disciplines. Teaching about the impact of federal freezes on research in science, humanities, and health. Helping students to learn their rights, how to advocate for their needs, and how to communicate with public officials are all things we can do. Explaining how the [arc of the American trajectory towards democracy, equality, and inclusion has been long and hard fought](https://danny.hellmo.space/posts/our-division-has-been-engineered/) and is now under attack.
 
 ---
 
-# We need to be organized
+# Actions we can take
+
+3. **Letter Writing Campaigns** - One of the most effective ways to communicate with our elected officials is to [write them](https://danny.hellmo.space/posts/writing-your-congressperson/).  Your congressperson might not share your views ([mine sure doesn't](https://barrett.house.gov/)), but they still represent you. You can make it hard for them to dodge your message. you can make it difficult to ignore you. You can get them to say what they mean. Writing these kinds of letters is a skill that we can all learn, and we can teach it to others. 
+4. **Door-to-Door Advocacy** - Knocking doors is no joke. I did it for the successful campaign for [Michigan Proposal 3](https://ballotpedia.org/Michigan_Proposal_3,_Right_to_Reproductive_Freedom_Initiative_(2022)) to restore reproductive rights to all of those who needed to enjoy those rights. It's hard to talk to people you don't know, but it's important if we want to make change. We can do this in our communities, in our neighborhoods, and elsewhere. 
 
 ---
+
+# Writing a letter to your congressperson
+
+**You must be an American citizen and a constituent of the congressperson to write them.**
+
+1. **Find out who your congressperson is.** 
+    - <https://www.congress.gov/members/find-your-member>
+2. **Research their views, and votes.**
+    - Views: Search: *<Rep. Name's> view on <issue>*
+    - Votes: <https://clerk.house.gov/Votes>
+3. Read how to write your congress person.
+   - [How to get your congressperson to hear you](https://www.publicsource.org/how-to-get-your-congressperson-to-actually-hear-you/)
+   - [Writing your congressperson](https://danny.hellmo.space/posts/writing-your-congressperson/)
+
+**Your letter is limited to 2000 characters, but you can call and read it.**
+
+---
+
+# Writing a letter to your congressperson
+
+1. Start with an introduction and **be specific**. Include your ask. Include how the member represents you. Ensure you **offer a rationale aligned with your member's interests**.
+2. Quickly **move to your request** and reference government documents. News reports can be helpful. **Avoid using language that indicts the order if the member does not share your views**. Instead, think about how important this work should be to your member. What about your work impacts them and their interests? **Remind them of the material impacts.**
+
+---
+
+# Writing a letter to your congressperson
+
+3. Get specific and **provide examples of the present impact and potential future impact** should the course be stayed. **Remind them again why they should care** about this issue.
+4. Close with a **thank you and a clear ask for a response**.
+5. Then just **sign your name and provide your contact information**.
+
+---
+
+# Finally
+
+## Thank you for sharing the space.
+
+## Thank you for listening.
+
+## This is temporary if we make it so
+
+---
+
+# Questions, comments, concerns?
+
+Email: <caball14@msu.edu>
