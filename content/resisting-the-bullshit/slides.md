@@ -52,6 +52,21 @@ theme: "rose-pine-moon"
 
 ---
 
+# What has been the impact?
+
+![width:600px](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnczZjQ3am9sNzMwNDBzZzdoOTVkam1kY3RxenZrYTVoaHhmNjAwMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/P7JmDW7IkB7TW/giphy.gif)
+
+## Absolute chaos
+
+<!--- # Presenter Notes  --->
+<!--- Research and educational programs are being cut. --->
+<!--- Grants are being frozen or canceled. --->
+<!--- Universities use federal funding to support their programs. --->
+<!--- Tuition is not enough to support the programs and will go up. --->
+<!--- Not to mention the chilling effect on research and education. --->
+
+---
+
 # A few things to remember
 
 ## Our collective power is our greatest strength
@@ -74,7 +89,7 @@ theme: "rose-pine-moon"
 
 ## Sexism, racism, homophobia, transphobia, and xenophobia have no home here
 
-## These actions are attacks on our humanity and meant to divide us
+## These EOs are attacks on our humanity and designed to divide us
 
 <!--- # Presenter Notes  --->
 <!--- This is my personal and strongly held belief. --->
@@ -109,6 +124,10 @@ theme: "rose-pine-moon"
 <https://www.aclu.org/sites/default/files/field_toolkit_file/kyr_english_3.pdf>
 
 <!--- # Presenter Notes  --->
+<!--- Tell them about your interactions with law enforcement. --->
+<!--- Remind them about targeting of people --->
+<!--- Remind them some departments are better than others. --->
+<!--- ELPD is a good department. --->
 
 ---
 
@@ -226,8 +245,9 @@ Red cards are available from the Immirgrant Legal Resource Center
 
 # Actions we can take
 
-1. **Rallies** - [MSU has 52,000 students, nearly 6,000 academic staff, and more than 7,000 administrative staff](https://en.wikipedia.org/wiki/Michigan_State_University). That's 65,000 people! All of us are going to be affected if these attacks continue. If even 2% of us rally, that's still 1,300 people.
-2. **Teach-Ins** - Our job is to educate and that is not just within our disciplines. Teaching about the impact of federal freezes on research in science, humanities, and health. Helping students to learn their rights, how to advocate for their needs, and how to communicate with public officials are all things we can do. Explaining how the [arc of the American trajectory towards democracy, equality, and inclusion has been long and hard fought](https://danny.hellmo.space/posts/our-division-has-been-engineered/) and is now under attack.
+1. **Teach-Ins** $\leftarrow$ **We are doing this right now.** - Our job is to educate and that is not just within our disciplines. Teaching about the impact of federal freezes on research in science, humanities, and health. Helping students to learn their rights, how to advocate for their needs, and how to communicate with public officials are all things we can do. Explaining how the [arc of the American trajectory towards democracy, equality, and inclusion has been long and hard fought](https://danny.hellmo.space/posts/our-division-has-been-engineered/) and is now under attack. 
+2. **Rallies** - [MSU has 52,000 students, nearly 6,000 academic staff, and more than 7,000 administrative staff](https://en.wikipedia.org/wiki/Michigan_State_University). That's 65,000 people! All of us are going to be affected if these attacks continue. If even 2% of us rally, that's still 1,300 people.
+
 
 <!--- # Presenter Notes  --->
 
