@@ -8,19 +8,26 @@ theme: "rose-pine-moon"
 ![Bullshit bg right 90%](./images/bullshit-course.png)
 
 ## Danny Caballero (he/they)
-Lappan Phillips Professor of Physics Education
-Union of Tenure System Faculty Organizer
+- Lappan Phillips Professor of Physics Education
+- Union of Tenure System Faculty Organizer
+
+<!--- # Presenter Notes  --->
+
 
 ---
 
 # Major Caveats
+
+## My views do not represent the views of MSU, the College of Natural Science, or the Department of Physics and Astronomy
 
 - I am not a lawyer
 - My advice comes from personal experience
 - You do not have to do anything I suggest
 - You do not have to stay for this talk
 
-## My views do not represent the views of MSU, the College of Natural Science, or the Department of Physics and Astronomy
+<!--- # Presenter Notes  --->
+<!--- I am only speaking for myself. --->
+<!--- My experience and my knowledge are limited. --->
 
 ---
 
@@ -36,21 +43,41 @@ Union of Tenure System Faculty Organizer
 
 ## These executive orders are callous, cruel, and dangerous.
 
+<!--- # Presenter Notes  --->
+<!--- You might feel differently about different orders -->
+<!--- You might feel differently about the president's actions. --->
+<!--- You might feel differently about the president. --->
+<!--- That is all ok. --->
+<!--- The impact of these orders is real and immediate. --->
+
 ---
 
 # A few things to remember
+
+## Our collective power is our greatest strength
 
 - You are not alone in any of your feelings; we are all in this together
 - You don't have to agree with everything I say to be a part of this community; you are welcome here
 - Again, you don't have to do anything I suggest
 
-## Our collective power is our greatest strength
+## It will take time for the courts to sort this out
+
+<!--- # Presenter Notes  --->
+<!--- I want to be very clear on my position. --->
+<!--- I don't take kindly to bullying and I don't take kindly to bullies. --->
 
 ---
 
 # Attacks on women, folks of color, the LGBTQ+ community, and immigrants are attacks on all of us
 
 ## We must stand together to resist these attacks
+
+## Sexism, racism, homophobia, transphobia, and xenophobia have no home here
+
+## These actions are attacks on our humanity and meant to divide us
+
+<!--- # Presenter Notes  --->
+<!--- This is my personal and strongly held belief. --->
 
 ---
 
@@ -60,9 +87,14 @@ Union of Tenure System Faculty Organizer
 
 - What your rights are when interacting with law enforcement
 - Tools and strategies for ensuring your rights are respected and your safety is maintained
-- How to support your friends and colleagues who may be targeted
+- How to support your friends and colleagues who might be targeted
 - How to activate yourself, your friends, and your family against these attacks
 - That you have a resource in me anytime you need it
+
+<!--- # Presenter Notes  --->
+<!--- My anxiety and anger are real. --->
+<!--- They push me to action and organizing. --->
+<!--- Your actions don't have to be the same as mine. --->
 
 ---
 
@@ -76,6 +108,8 @@ Union of Tenure System Faculty Organizer
 
 <https://www.aclu.org/sites/default/files/field_toolkit_file/kyr_english_3.pdf>
 
+<!--- # Presenter Notes  --->
+
 ---
 
 # The Fourth Amendment
@@ -86,9 +120,13 @@ Plainly, you have the right to be free from unreasonable searches and seizures. 
 
 Source: <https://constitutioncenter.org/the-constitution/amendments/amendment-iv/interpretations/121>
 
+<!--- # Presenter Notes  --->
+
 ---
 
 # Interactions with Law Enforcement
+
+## "I don't have anything to say. I don't consent to be searched."
 
 If you are approached by law enforcement, you have the right to remain silent
 
@@ -98,14 +136,15 @@ If you are approached by law enforcement, you have the right to remain silent
 - You do not have to open your door
 - You do not have to do anything without a **warrant signed by a judge**
 
-Cops are very good at getting you to talk to them. They are seeking your consent to search you, your car, your home, etc.
-
-## "I don't have anything to say. I don't consent to be searched."
-
+<!--- # Presenter Notes  --->
+<!--- Cops are very good at getting you to talk to them. --->
+<!--- They are seeking your consent to search you, your car, your home, etc. --->
 
 ---
 
 # Immigration and Customs Enforcement
+
+## "I don't have anything to say. I'm asking you to leave."
 
 If you are approached by ICE, you have the right to remain silent
 
@@ -116,19 +155,23 @@ If you are approached by ICE, you have the right to remain silent
 Red cards are available from the Immirgrant Legal Resource Center 
 <https://www.ilrc.org/red-cards-tarjetas-rojas>
 
-## "I don't have anything to say. I'm asking you to leave."
+<!--- # Presenter Notes  --->
+<!--- Cops are very good at getting you to talk to them. --->
+<!--- They are seeking your consent to search you, your car, your home, etc. --->
 
 ---
 
 # Red Card
 
-Explains your rights in multiple languages. 
+## Print some and keep them handy
 
-Can be handed to law enforcement without opening a door.
+- Explains your rights in multiple languages. 
+- Can be handed to law enforcement without opening a door.
 
 ![Red card 100%](./images/redcards.png)
 
-## Print some and keep them handy
+<!--- # Presenter Notes  --->
+
 
 ---
 
@@ -142,6 +185,12 @@ Can be handed to law enforcement without opening a door.
 
 - Read their emails carefully
 - Read the reporting thoroughly
+- You are not alone
+
+<!--- # Presenter Notes  --->
+<!--- MSU's legal exposure and financial exposure are real. --->
+<!--- The advice leadership receives is to limit exposure. --->
+<!--- They are communicating their support, but it's not being made prominent. --->
 
 ---
 
@@ -152,6 +201,12 @@ Can be handed to law enforcement without opening a door.
 ## You have the right to speak out
 
 ## You have the right to organize
+
+<!--- # Presenter Notes  --->
+<!--- If you are a citizen, you enjoy the full rights and protections of the Constitution. --->
+<!--- You are not subject to financial and legal exposure like MSU -->
+<!--- You are not subject to the same scrutiny as MSU. --->
+<!--- You can organize and advocate for your rights. --->
 
 ---
 
@@ -165,6 +220,8 @@ Can be handed to law enforcement without opening a door.
 
 # We need to do BIG. PUBLIC. SHIT.
 
+<!--- # Presenter Notes  --->
+
 ---
 
 # Actions we can take
@@ -172,12 +229,16 @@ Can be handed to law enforcement without opening a door.
 1. **Rallies** - [MSU has 52,000 students, nearly 6,000 academic staff, and more than 7,000 administrative staff](https://en.wikipedia.org/wiki/Michigan_State_University). That's 65,000 people! All of us are going to be affected if these attacks continue. If even 2% of us rally, that's still 1,300 people.
 2. **Teach-Ins** - Our job is to educate and that is not just within our disciplines. Teaching about the impact of federal freezes on research in science, humanities, and health. Helping students to learn their rights, how to advocate for their needs, and how to communicate with public officials are all things we can do. Explaining how the [arc of the American trajectory towards democracy, equality, and inclusion has been long and hard fought](https://danny.hellmo.space/posts/our-division-has-been-engineered/) and is now under attack.
 
+<!--- # Presenter Notes  --->
+
 ---
 
 # Actions we can take
 
 3. **Letter Writing Campaigns** - One of the most effective ways to communicate with our elected officials is to [write them](https://danny.hellmo.space/posts/writing-your-congressperson/).  Your congressperson might not share your views ([mine sure doesn't](https://barrett.house.gov/)), but they still represent you. You can make it hard for them to dodge your message. you can make it difficult to ignore you. You can get them to say what they mean. Writing these kinds of letters is a skill that we can all learn, and we can teach it to others. 
 4. **Door-to-Door Advocacy** - Knocking doors is no joke. I did it for the successful campaign for [Michigan Proposal 3](https://ballotpedia.org/Michigan_Proposal_3,_Right_to_Reproductive_Freedom_Initiative_(2022)) to restore reproductive rights to all of those who needed to enjoy those rights. It's hard to talk to people you don't know, but it's important if we want to make change. We can do this in our communities, in our neighborhoods, and elsewhere. 
+
+<!--- # Presenter Notes  --->
 
 ---
 
@@ -196,12 +257,16 @@ Can be handed to law enforcement without opening a door.
 
 **Your letter is limited to 2000 characters, but you can call and read it.**
 
+<!--- # Presenter Notes  --->
+
 ---
 
 # Writing a letter to your congressperson
 
 1. Start with an introduction and **be specific**. Include your ask. Include how the member represents you. Ensure you **offer a rationale aligned with your member's interests**.
 2. Quickly **move to your request** and reference government documents. News reports can be helpful. **Avoid using language that indicts the order if the member does not share your views**. Instead, think about how important this work should be to your member. What about your work impacts them and their interests? **Remind them of the material impacts.**
+
+<!--- # Presenter Notes  --->
 
 ---
 
@@ -210,6 +275,8 @@ Can be handed to law enforcement without opening a door.
 3. Get specific and **provide examples of the present impact and potential future impact** should the course be stayed. **Remind them again why they should care** about this issue.
 4. Close with a **thank you and a clear ask for a response**.
 5. Then just **sign your name and provide your contact information**.
+
+<!--- # Presenter Notes  --->
 
 ---
 
@@ -221,8 +288,14 @@ Can be handed to law enforcement without opening a door.
 
 ## This is temporary if we make it so
 
+<!--- # Presenter Notes  --->
+
 ---
 
 # Questions, comments, concerns?
 
 Email: <caball14@msu.edu>
+
+<!--- # Presenter Notes  --->
+<!--- Remind them that they are not alone.  -->
+
