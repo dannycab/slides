@@ -171,7 +171,7 @@ If you are approached by ICE, you have the right to remain silent
 - MSU classrooms, research spaces, and offices are not public spaces
 - ICE cannot enter these spaces without a warrant signed by a judge
 
-Red cards are available from the Immirgrant Legal Resource Center 
+Red cards are available from the Immigrant Legal Resource Center 
 <https://www.ilrc.org/red-cards-tarjetas-rojas>
 
 <!--- # Presenter Notes  --->
@@ -306,7 +306,7 @@ Red cards are available from the Immirgrant Legal Resource Center
 
 ## Thank you for listening.
 
-## This is temporary if we make it so
+## This is temporary if we make it so.
 
 <!--- # Presenter Notes  --->
 
