@@ -91,9 +91,9 @@ Pilot-wave Hydrodynamics $\longrightarrow$
 
 ## Take 2-3 minutes and talk with your neighbors about what research is to you.
 
-* What characteristics does research have?
-* What are the goals of research?
-* What are the outcomes of research?
+- What characteristics does research have?
+- What are the goals of research?
+- What are the outcomes of research?
 
 ---
 
@@ -101,9 +101,9 @@ Pilot-wave Hydrodynamics $\longrightarrow$
 
 ## Take 2-3 minutes and talk with your neighbors about why folks do research.
 
-* What motivates people to do research?
-* What are the benefits of doing research?
-* What are the drawbacks of doing research?
+- What motivates people to do research?
+- What are the benefits of doing research?
+- What are the drawbacks of doing research?
 
 ---
 
@@ -111,10 +111,10 @@ Pilot-wave Hydrodynamics $\longrightarrow$
 
 ## MSU is a "research-intensive" university (R1 school)
 
-* Most faculty are expected to do research
-* We are expected to mentor graduate and undergraduate students in research
-* We are expected to secure funding for our research
-* We are expected to publish our research
+- Most faculty are expected to do research
+- We are expected to mentor graduate and undergraduate students in research
+- We are expected to secure funding for our research
+- We are expected to publish our research
 
 ## Why?
 
@@ -133,6 +133,27 @@ For all the reasons you discussed and,
 ---
 
 # My research
+
+## Computational Physics and Science Education Research
+
+- How do we design computing-enabled learning environments that support different aspects of learning?
+- How do we design course structures and assessments that promote student agency and autonomy?
+- How do we design professional development experiences that support faculty in adopting new pedagogical practices?
+- How do we institutionalize these practices in departments and colleges?
+
+**I really enjoy the applied side of my work.**
+
+---
+
+# My research
+
+## Many other interests
+
+- How do we design graduate admissions and retention practices that promote diversity and inclusion?
+- How do we design courses that educate students about capitalist and authoritarian history of AI while leveraging it in ethical and responsible ways in the classroom?
+- How can we leverage open-source AI models to support qualitative research in science education?
+- How do we design majors' courses that support students developing a plan for their careers?
+- ...
 
 ---
 
