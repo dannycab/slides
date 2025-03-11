@@ -5,14 +5,15 @@ theme: "rose-pine-moon"
 
 # Research: What, Why, and How
 
-![Bullshit bg right 90%](./images/droplet.png)
+![Droplet bg right 95%](./images/droplet-Small.png)
+
+![Standup bg right 95%](./images/standup-Small.png)
 
 
 ## Danny Caballero (he/they)
-- Lappan Phillips Professor of Physics Education
-- Union of Tenure System Faculty Organizer
+- Professor; Physics & Astronomy, CMSE, CREATE for STEM
+- Organizer; Union of Tenure System Faculty MEA-NEA
 
-Pilot-wave Hydrodynamics $\longrightarrow$ 
 
 ---
 
@@ -289,7 +290,7 @@ Email: <caball14@msu.edu>
 
 ## Stand Up for Science Rally (07 Mar 2025)
 
-![Standup width:600px](https://www.motherjones.com/wp-content/uploads/2025/03/Stand-Up-For-Science-NYC.jpg)
+![Standup width:600px](./images/standup.png)
 
 Source: <https://www.motherjones.com/politics/2025/03/stand-up-for-science-dc-trump-doge-cuts-climate-nobel-laureates-nih-march/>
 
@@ -346,7 +347,7 @@ Source: <https://www.motherjones.com/politics/2025/03/stand-up-for-science-dc-tr
 
 # What has been the impact?
 
-![width:600px](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnczZjQ3am9sNzMwNDBzZzdoOTVkam1kY3RxenZrYTVoaHhmNjAwMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/P7JmDW7IkB7TW/giphy.gif)
+![width:600px](../../assets/images/elmo.gif)
 
 ## Absolute chaos
 
