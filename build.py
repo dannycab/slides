@@ -138,7 +138,7 @@ def main():
         image_format = "png" if mode == "--png" or mode == "--all" else "jpg"
         output_image = output_image_png if image_format == "png" else output_image_jpg
         print(f"Converting '{markdown_file}' to {image_format.upper()} image...")
-        convert_to_image(markdown_file, css_light, output_image, image_format)
+        convert_to_image(markdown_file, css_dark, output_image, image_format)
 
 if __name__ == "__main__":
     main()

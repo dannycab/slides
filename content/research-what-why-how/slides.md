@@ -222,6 +222,8 @@ Hit SEND! Students get research positions all the time because they asked. Now t
 - If you don't hear back after that, move on to the next faculty member
     - You had a list of three, right?
 
+**It is ok to move on; no one should be upset if you find a different position.**
+
 ---
 
 # What should you look for in a research group?
@@ -301,8 +303,8 @@ Source: <https://www.motherjones.com/politics/2025/03/stand-up-for-science-dc-tr
 ![Bullshit bg right 90%](./images/bullshit-course.png)
 
 ## Danny Caballero (he/they)
-- Lappan Phillips Professor of Physics Education
-- Union of Tenure System Faculty Organizer
+- Professor; Physics & Astronomy, CMSE, CREATE for STEM
+- Organizer; Union of Tenure System Faculty MEA-NEA
 
 <!--- # Presenter Notes  --->
 
@@ -311,7 +313,7 @@ Source: <https://www.motherjones.com/politics/2025/03/stand-up-for-science-dc-tr
 
 # Major Caveats
 
-## My views do not represent the views of MSU, the College of Natural Science, or the Department of Physics and Astronomy
+## My views do not represent the views of MSU, any of my programs or colleges, or any organization with which I'm affiliated
 
 - I am not a lawyer
 - My advice comes from personal experience
@@ -382,7 +384,7 @@ Source: <https://www.motherjones.com/politics/2025/03/stand-up-for-science-dc-tr
 
 ## Sexism, racism, homophobia, transphobia, and xenophobia have no home here
 
-## These EOs are attacks on our humanity and designed to divide us
+## Some of these EOs are attacks on our humanity and designed to divide us
 
 <!--- # Presenter Notes  --->
 <!--- This is my personal and strongly held belief. --->
