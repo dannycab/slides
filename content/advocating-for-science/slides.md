@@ -87,6 +87,7 @@ For all the reasons you discussed and,
 - Federal freeze on grants and loans; cuts to current NIH and NSF grants
 - Stoppage of work at US AID, CPB, and other federal agencies
 - Reversal of Title IX protections for women and LGBTQ+ individuals
+- Arrest and detention of international students and scholars (and many others)
 - And so much more...
 
 ## These executive orders are callous, cruel, and dangerous.
@@ -128,6 +129,7 @@ For all the reasons you discussed and,
 - Tuition will go up; budgets will tighten up; services will be reduced
 - Positions will be frozen or eliminated; economic development will slow
 - Workloads will increase; morale will decrease
+- Universities will not be safe for international students and scholars
 
 **The impact will be felt for years even if the orders are reversed**
 
@@ -196,8 +198,15 @@ For all the reasons you discussed and,
 
 # Actions we can take
 
-3. **Letter Writing Campaigns** - One of the most effective ways to communicate with our elected officials is to [write them](https://danny.hellmo.space/posts/writing-your-congressperson/).  Your congressperson might not share your views ([mine sure doesn't](https://barrett.house.gov/)), but they still represent you. You can make it hard for them to dodge your message. you can make it difficult to ignore you. You can get them to say what they mean. Writing these kinds of letters is a skill that we can all learn, and we can teach it to others. 
-4. **Door-to-Door Advocacy** - Knocking doors is no joke. I did it for the successful campaign for [Michigan Proposal 3](https://ballotpedia.org/Michigan_Proposal_3,_Right_to_Reproductive_Freedom_Initiative_(2022)) to restore reproductive rights to all of those who needed to enjoy those rights. It's hard to talk to people you don't know, but it's important if we want to make change. We can do this in our communities, in our neighborhoods, and elsewhere. 
+3. **Novel Demonstrations of Collective Power** - We can do things that show our collective strength; host events that bring awareness to science and its impact on American society; make leaders uncomfortable with dodging the issue. Showing up and being visible is important. We need to remember that we are all being attacked and affected.
+4. **Letter Writing Campaigns** - One of the most effective ways to communicate with our elected officials is to [write them](https://danny.hellmo.space/posts/writing-your-congressperson/).  Your congressperson might not share your views ([mine sure doesn't](https://barrett.house.gov/)), but they still represent you. You can make it hard for them to dodge your message. you can make it difficult to ignore you. You can get them to say what they mean. Writing these kinds of letters is a skill that we can all learn, and we can teach it to others. 
+
+---
+
+# Actions we can take
+
+5. **Talk to Everyone** - Talk to your friends, your family, the people at the grocery store, the folks at the bar or coffee shop. Give them the information they need, the stories they need to hear, and the connections they need to make. We need the public on our side and not just a public that have college degrees, **we need everyone.**
+6. **Door-to-Door Advocacy** - Knocking doors is no joke. I did it for the successful campaign for [Michigan Proposal 3](https://ballotpedia.org/Michigan_Proposal_3,_Right_to_Reproductive_Freedom_Initiative_(2022)) to restore reproductive rights to all of those who needed to enjoy those rights. It's hard to talk to people you don't know, but it's important if we want to make change. We can do this in our communities, in our neighborhoods, and elsewhere. 
 
 <!--- # Presenter Notes  --->
 
