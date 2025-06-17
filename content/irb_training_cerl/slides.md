@@ -52,7 +52,7 @@ These and other cases around the world highlighted the need to protect human sub
 
 ---
 
-# For education research we mostly focus on FERPA and Common Rule
+# We mostly focus on FERPA and Common Rule
 
 - FERPA protects the privacy of student education records, including grades, transcripts, and other personally identifiable information.
 - The Common Rule establishes the basic provisions for IRBs, informed consent, and assurances of compliance.
@@ -62,9 +62,83 @@ These and other cases around the world highlighted the need to protect human sub
 
 # What is the IRB process?
 
-- **Proposal Submission**: Researchers submit a proposal to the IRB detailing the research plan, including methods, participant recruitment, and data collection.
-- **Review**: The IRB reviews the proposal to ensure it meets ethical standards and complies with regulations.
-- **Approval**: If the proposal is approved, researchers can begin their study. If not, the IRB provides feedback for revisions.
-- **Monitoring**: The IRB monitors ongoing research to ensure compliance with ethical standards and regulations.
-- **Reporting**: Researchers must report any adverse events or changes to the study to the IRB.
-- **Renewal**: IRB approval is typically valid for a given period of time, after which researchers must submit a renewal application.
+- **Proposal Submission**: Submit research plan with methods and participant details
+- **Review**: IRB evaluates proposal for ethical standards and compliance
+- **Approval**: Begin study if approved; revise if feedback provided
+- **Monitoring**: Ongoing oversight ensures continued compliance
+- **Reporting**: Report adverse events and study changes to IRB
+- **Renewal**: Reapply for approval after expiration period
+
+---
+
+# What are the different determinations?
+
+- **Not Human Subjects Research**: No IRB review needed; does not involve human subjects.
+- **Exempt**: Minimal risk research; simplified review process.
+- **Expedited**: Minimal risk research; faster review process.
+- **Full Board Review**: Higher risk research; requires full IRB review and approval.
+
+Our work is typically "not human subjects research" or "exempt".
+
+---
+
+# What is the IRB looking for?
+- **Risk Assessment**: Evaluate potential risks to participants
+- **Informed Consent**: Ensure participants understand study and risks
+- **Confidentiality**: Protect participant data and privacy
+- **Recruitment**: Fair and equitable participant selection
+- **Data Management**: Secure data storage and handling
+
+---
+
+# What forms do we use? What are they for?
+
+- **IRB Application Form**: Initial proposal submission
+- **HRP-503** Protocol Form: Detailed research plan
+- **HRP-512** Determination Form: Determine if research is human subjects research
+- **HRP-511** (sometimes for grants): 45 CFR 46.118 Determination
+
+---
+
+# What do you need to include in your IRB application?
+
+- **Purpose**: Explain the research objectives and significance
+- **Methods**: Detailed description of research design and procedures
+- **Participants**: Inclusion/exclusion criteria, recruitment methods
+- **Risks**: Identify potential risks and how they will be minimized
+- **Benefits**: Describe potential benefits to participants and society
+
+---
+
+# What do you need to include in your IRB application? (cont.)
+
+- **Informed Consent**: Explain how participants will be informed and consent obtained
+- **Data Management**: Describe how data will be collected, stored, and protected
+- **Timeline**: Estimated duration of the study and participant involvement
+- **Funding**: Source of funding and any conflicts of interest
+
+---
+
+# What documents do you typically need to create?
+- **Informed Consent Form**: Outlines study details, risks, benefits, and participant rights
+- **Recruitment Materials**: Flyers, emails, or other materials used to recruit participants
+- **Data Collection Instruments**: Surveys, questionnaires, or other tools used to collect data
+
+---
+
+# What are some common mistakes in IRB applications?
+
+- **Incomplete Information**: Missing details about methods, risks, or participant rights
+- **Vague Language**: Lack of clarity in describing procedures or risks
+- **Inadequate Risk Assessment**: Failing to identify or address potential risks
+- **Insufficient Informed Consent**: Not providing enough information for participants to make an informed decision
+- **Poorly Defined Recruitment**: Unclear or unfair recruitment methods
+- **Lack of Data Security**: Not addressing how participant data will be protected
+
+---
+
+# Questions? 
+
+![Meme](https://media.makeameme.org/created/one-does-not-84131e614a.jpg)
+
+
