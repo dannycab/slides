@@ -67,7 +67,8 @@ Note we have some unplanned time later (that's what this meeting is for!)
 <img src="https://www.appily.com/sites/default/files/styles/max_1200/public/images/hero/college/240471_hero.jpg" alt="UW - River Falls" width="400">
 
 - Arrivals to MSP
-- Shuttle from MSP to UW - River Falls
+- Shuttle from MSP to UW - River Falls 
+    - **Pick up at Door 5 - Arrival/Baggage Level**
 - 17:00 - 18:00 - Dinner
 - After 18:00 - Optional Social Activities
 </div>
