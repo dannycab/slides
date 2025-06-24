@@ -21,9 +21,9 @@ theme: "rose-pine-moon"
 
 ![PICUP Logo](./images/picup-logo.png)
 
-# 2025 Summer Leadership Institute for Computational Education (in Physics) 
+# 2025 Summer Leadership Institute for Computational Education (in Physics) - Goal Setting
 
-## UW - River Falls (June 23-27)
+## UW - River Falls (June 24, 2025)
 
 ---
 <div class="twocolumns">
