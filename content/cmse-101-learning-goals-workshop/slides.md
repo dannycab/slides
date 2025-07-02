@@ -19,7 +19,7 @@ theme: "rose-pine-moon"
 }
 </style>
 
-![MSU Logo](https://upload.wikimedia.org/wikipedia/en/a/a7/Michigan_State_Athletics_logo.svg)
+<img src="./images/msu.png" alt="MSU Logo" width="200"/>
 
 # CMSE 101: Learning Goals Planning Workshop
 
