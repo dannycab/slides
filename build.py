@@ -19,16 +19,16 @@ def convert_to_html(markdown_file, css_file, output_file):
     except CalledProcessError as e:
         print(f"Error creating {output_file}: {e.stderr}")
 
-def convert_to_pdf(markdown_file, css_file, output_file):
+def convert_to_pdf(markdown_file, theme_file, output_file):
     """
-    Converts a Markdown file to PDF using Marp with the specified CSS theme.
+    Converts a Markdown file to PDF using Marp with the specified theme.
 
     Args:
         markdown_file (str): Path to the Markdown file.
-        css_file (str): Path to the CSS file.
+        theme_file (str): Path to the theme file (CSS or SCSS).
         output_file (str): Path to the output PDF file.
     """
-    command = ["marp", "--pdf", "--allow-local-files", "--theme", css_file, markdown_file, "-o", output_file]
+    command = ["marp", "--pdf", "--theme", theme_file, markdown_file, "-o", output_file]
     print(f"Running command: {' '.join(command)}")
     try:
         result = run(command, capture_output=True, text=True, check=True)
@@ -93,8 +93,10 @@ def main():
     base_name = os.path.splitext(os.path.basename(markdown_file))[0]
     light_theme = "rose-pine-dawn"
     dark_theme = "rose-pine-moon"
+    gaia_theme = "gaia.scss"
     css_light = os.path.abspath(f"./assets/css/{light_theme}.css")
     css_dark = os.path.abspath(f"./assets/css/{dark_theme}.css")
+    css_gaia = os.path.abspath(f"./assets/css/{gaia_theme}")
 
     if not os.path.exists(css_light):
         print(f"Error: CSS file '{css_light}' does not exist.")
@@ -104,28 +106,22 @@ def main():
         print(f"Error: CSS file '{css_dark}' does not exist.")
         sys.exit(1)
 
+    if not os.path.exists(css_gaia):
+        print(f"Error: Theme file '{css_gaia}' does not exist.")
+        sys.exit(1)
+
     # Create directories for HTML, PDF, and image outputs
     output_dir = os.path.dirname(markdown_file)
     os.makedirs(output_dir, exist_ok=True)
 
-    output_light_html = os.path.join(output_dir, f"{base_name}-light.html")
-    output_dark_html = os.path.join(output_dir, f"{base_name}-dark.html")
     output_light_pdf = os.path.join(output_dir, f"{base_name}-light.pdf")
     output_dark_pdf = os.path.join(output_dir, f"{base_name}-dark.pdf")
-    output_image_png = os.path.join(output_dir, f"{base_name}.png")
-    output_image_jpg = os.path.join(output_dir, f"{base_name}.jpg")
+    output_gaia_pdf = os.path.join(output_dir, f"{base_name}-gaia.pdf")
 
     # Determine the conversion mode
-    mode = "--html"
+    mode = "--pdf"
     if len(sys.argv) > 2:
         mode = sys.argv[2]
-
-    if mode == "--html" or mode == "--all":
-        print(f"Converting '{markdown_file}' to HTML with light theme...")
-        convert_to_html(markdown_file, css_light, output_light_html)
-
-        print(f"Converting '{markdown_file}' to HTML with dark theme...")
-        convert_to_html(markdown_file, css_dark, output_dark_html)
 
     if mode == "--pdf" or mode == "--all":
         print(f"Converting '{markdown_file}' to PDF with light theme...")
@@ -134,11 +130,8 @@ def main():
         print(f"Converting '{markdown_file}' to PDF with dark theme...")
         convert_to_pdf(markdown_file, css_dark, output_dark_pdf)
 
-    if mode == "--png" or mode == "--jpg" or mode == "--all":
-        image_format = "png" if mode == "--png" or mode == "--all" else "jpg"
-        output_image = output_image_png if image_format == "png" else output_image_jpg
-        print(f"Converting '{markdown_file}' to {image_format.upper()} image...")
-        convert_to_image(markdown_file, css_dark, output_image, image_format)
+        print(f"Converting '{markdown_file}' to PDF with Gaia theme...")
+        convert_to_pdf(markdown_file, css_gaia, output_gaia_pdf)
 
 if __name__ == "__main__":
     main()
