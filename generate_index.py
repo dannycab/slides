@@ -13,8 +13,6 @@ def load_info_files(directory):
             markdown_file = os.path.join(deck_dir, "slides.md")
             if os.path.exists(markdown_file):
                 base_name = os.path.splitext(os.path.basename(markdown_file))[0]
-                css_light = os.path.abspath(f"./assets/styles/light.css")
-                css_dark = os.path.abspath(f"./assets/styles/dark.css")
                 output_light_html = os.path.join(deck_dir, f"{base_name}-light.html")
                 output_dark_html = os.path.join(deck_dir, f"{base_name}-dark.html")
                 output_light_pdf = os.path.join(deck_dir, f"{base_name}-light.pdf")

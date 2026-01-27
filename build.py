@@ -123,6 +123,22 @@ def main():
     if len(sys.argv) > 2:
         mode = sys.argv[2]
 
+    output_light_html = os.path.join(output_dir, f"{base_name}-light.html")
+    output_dark_html = os.path.join(output_dir, f"{base_name}-dark.html")
+    output_light_png = os.path.join(output_dir, f"{base_name}-light.png")
+    output_dark_png = os.path.join(output_dir, f"{base_name}-dark.png")
+    output_light_jpg = os.path.join(output_dir, f"{base_name}-light.jpg")
+    output_dark_jpg = os.path.join(output_dir, f"{base_name}-dark.jpg")
+    output_png = os.path.join(output_dir, f"{base_name}.png")
+    output_jpg = os.path.join(output_dir, f"{base_name}.jpg")
+
+    if mode == "--html" or mode == "--all":
+        print(f"Converting '{markdown_file}' to HTML with light theme...")
+        convert_to_html(markdown_file, css_light, output_light_html)
+
+        print(f"Converting '{markdown_file}' to HTML with dark theme...")
+        convert_to_html(markdown_file, css_dark, output_dark_html)
+
     if mode == "--pdf" or mode == "--all":
         print(f"Converting '{markdown_file}' to PDF with light theme...")
         convert_to_pdf(markdown_file, css_light, output_light_pdf)
@@ -132,6 +148,14 @@ def main():
 
         print(f"Converting '{markdown_file}' to PDF with Gaia theme...")
         convert_to_pdf(markdown_file, css_gaia, output_gaia_pdf)
+
+    if mode == "--png" or mode == "--all":
+        print(f"Converting '{markdown_file}' to PNG with light theme...")
+        convert_to_image(markdown_file, css_light, output_png, "png")
+
+    if mode == "--jpg" or mode == "--all":
+        print(f"Converting '{markdown_file}' to JPG with light theme...")
+        convert_to_image(markdown_file, css_light, output_jpg, "jpg")
 
 if __name__ == "__main__":
     main()
