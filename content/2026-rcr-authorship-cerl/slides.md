@@ -474,6 +474,15 @@ _Turn to your neighbor, and then share one key difference you noticed._
 
 ---
 
+## Authorship Order Can Vary by Discipline & Venue
+
+* **Astronomy & Astrophysics (small)**: Ordered by contribution; first author leads and handles submission; last author has no meaning.
+* **Astronomy & Astrophysics (large)**: First few by contribution, rest alphabetical; first author handles submission; last author has no meaning.
+* **High Energy Physics**: Fully alphabetical author list; designated corresponding author manages review and submission.
+* **Most Physics Subfields**: First author is lead; last author is senior mentor/PI and carries status.
+* **Applied Math & Computer Science**: Small papers alphabetical; larger/applied papers often by contribution, with first author submitting.
+---
+
 ## Takeaways
 
 - Authorship = **contribution + responsibility** (ICMJE baseline).
