@@ -1,17 +1,36 @@
 import os
 import sys
 from subprocess import run, CalledProcessError
+import re
+
+def has_inline_css(markdown_file):
+    """
+    Checks if the markdown file has inline CSS defined.
+
+    Args:
+        markdown_file (str): Path to the Markdown file.
+    
+    Returns:
+        bool: True if inline CSS is found, False otherwise.
+    """
+    with open(markdown_file, 'r') as f:
+        content = f.read()
+    return bool(re.search(r'<style>.*?</style>', content, re.DOTALL))
 
 def convert_to_html(markdown_file, css_file, output_file):
     """
     Converts a Markdown file to HTML using Marp with the specified CSS theme.
+    Skips the theme if inline CSS is present.
 
     Args:
         markdown_file (str): Path to the Markdown file.
         css_file (str): Path to the CSS file.
         output_file (str): Path to the output HTML file.
     """
-    command = ["marp", "--html", "--allow-local-files", "--theme", css_file, markdown_file, "-o", output_file]
+    if has_inline_css(markdown_file):
+        command = ["marp", "--html", "--allow-local-files", markdown_file, "-o", output_file]
+    else:
+        command = ["marp", "--html", "--allow-local-files", "--theme", css_file, markdown_file, "-o", output_file]
     print(f"Running command: {' '.join(command)}")
     try:
         result = run(command, capture_output=True, text=True, check=True)
@@ -22,13 +41,17 @@ def convert_to_html(markdown_file, css_file, output_file):
 def convert_to_pdf(markdown_file, theme_file, output_file):
     """
     Converts a Markdown file to PDF using Marp with the specified theme.
+    Skips the theme if inline CSS is present.
 
     Args:
         markdown_file (str): Path to the Markdown file.
         theme_file (str): Path to the theme file (CSS or SCSS).
         output_file (str): Path to the output PDF file.
     """
-    command = ["marp", "--pdf", "--theme", theme_file, markdown_file, "-o", output_file]
+    if has_inline_css(markdown_file):
+        command = ["marp", "--pdf", markdown_file, "-o", output_file]
+    else:
+        command = ["marp", "--pdf", "--theme", theme_file, markdown_file, "-o", output_file]
     print(f"Running command: {' '.join(command)}")
     try:
         result = run(command, capture_output=True, text=True, check=True)
@@ -39,6 +62,7 @@ def convert_to_pdf(markdown_file, theme_file, output_file):
 def convert_to_image(markdown_file, css_file, output_file, image_format):
     """
     Converts the first slide of a Markdown file to an image using Marp with the specified CSS theme.
+    Skips the theme if inline CSS is present.
 
     Args:
         markdown_file (str): Path to the Markdown file.
@@ -46,7 +70,10 @@ def convert_to_image(markdown_file, css_file, output_file, image_format):
         output_file (str): Path to the output image file.
         image_format (str): The format of the output image (png or jpg).
     """
-    command = ["marp", f"--{image_format}", "--allow-local-files", "--theme", css_file, markdown_file, "-o", output_file]
+    if has_inline_css(markdown_file):
+        command = ["marp", f"--{image_format}", "--allow-local-files", markdown_file, "-o", output_file]
+    else:
+        command = ["marp", f"--{image_format}", "--allow-local-files", "--theme", css_file, markdown_file, "-o", output_file]
     print(f"Running command: {' '.join(command)}")
     try:
         result = run(command, capture_output=True, text=True, check=True)
