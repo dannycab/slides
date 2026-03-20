@@ -155,9 +155,9 @@ $^1$Aman Yadav recused himself from evaluation and discussion once a finalist wa
 
 ## Committee & Process Governance
 
-- Search Committee: Caballero (Chair), Green, Kinsmanm, Xie, Yadav (Search Advocate), Zhang
+- Search Committee: Caballero (Chair), Green, Kinsman, Xie, Yadav (Search Advocate), Zhang
 - Process followed the approved **Search Narrative** 
-  - Advertising, Requset for Materials
+  - Advertising, Request for Materials
   - Triage, two‑pass screening
   - Remote interviews as needed
   - On‑campus visits, and, now, offer process
@@ -229,8 +229,8 @@ $^1$Aman Yadav recused himself from evaluation and discussion once a finalist wa
 
 
 **Criteria (Second‑Pass) & 0–3 anchors:**  
-- **D Service (Required, wt 1.0):** 3 = established record + concrete plans; 2 = strong record + vague plans; 1 = some efforts; 0 = limited/no efforts. [1](https://michiganstate-my.sharepoint.com/personal/caball14_msu_edu/Documents/Service/CMSE/1855_Faculty_Search/Candidate%20CVs/Erdogan%20Kaya%20-%20CV.pdf)  
-- **E Alignment (Preferred, wt 1.0):** 3 = research **focuses** on target area with critical stance; 2 = focuses with clear potential to improve outcomes; 1 = relates; 0 = limited connection. [1](https://michiganstate-my.sharepoint.com/personal/caball14_msu_edu/Documents/Service/CMSE/1855_Faculty_Search/Candidate%20CVs/Erdogan%20Kaya%20-%20CV.pdf)
+- **D Service (Required, wt 1.0):** 3 = established record + concrete plans; 2 = strong record + vague plans; 1 = some efforts; 0 = limited/no efforts. 
+- **E Alignment (Preferred, wt 1.0):** 3 = research **focuses** on target area with critical stance; 2 = focuses with clear potential to improve outcomes; 1 = relates; 0 = limited connection.
 
 **Outcome:** candidates above the committee’s support cutoff moved forward (if too many, remote interviews used to determine final list). 
 
@@ -389,8 +389,13 @@ After visits, committee assigns consensus scores (half‑scores allowed) using *
 - 6 Peer‑reviewed publications in conference proceedings 
 
 **Teaching & Mentoring**  
+- Developed and teaching AI courses for educators at ND
 - Teaching assistant roles in data science and HCI courses.
 - Instruction and mentoring in computational thinking programs for blind, visually impaired, deaf, and hard‑of‑hearing learners.
+
+---
+
+## Si Chen — Scholarship, Teaching, Service
 
 **Honors (selected)**
 - Postdoc Fellowship in Responsible AI in Education (2024)
