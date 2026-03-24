@@ -411,18 +411,16 @@ After visits, committee assigns consensus scores (half‑scores allowed) using *
 
 ---
 
-## Erdogan Kaya
+## Erdogan Kaya - Strengths
 
-**Strengths**
 - Strong research record with external funding and publications in high‑impact journals.
 - Clear commitment to inclusion and diversity in STEM education.
 - Experience in both research and teaching at the university level.
 
 ---
 
-## Erdogan Kaya
+## Erdogan Kaya - Concerns
 
-**Concerns**
 - Research focus was unclear and not as well-aligned with the target area as other candidates.
 - Limited consideration of the undergraduate context in research and teaching statements.
 - Lack of enthusiasm from partner units during on-campus visit
