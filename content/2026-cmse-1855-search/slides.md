@@ -400,3 +400,72 @@ After visits, committee assigns consensus scores (half‑scores allowed) using *
 **Honors (selected)**
 - Postdoc Fellowship in Responsible AI in Education (2024)
 - Best Paper Honorable Mention Award (CSCW 2021)
+
+---
+
+# Committee Recommendation
+
+* The search committee considers both **Victoria Macann** and **Si Chen** above threshold for the position.
+* The search committee considers **Erdogan Kaya** below threshold for the position.
+* The search committee did not rank the two finalists relative to each other. 
+
+---
+
+## Erdogan Kaya
+
+**Strengths**
+- Strong research record with external funding and publications in high‑impact journals.
+- Clear commitment to inclusion and diversity in STEM education.
+- Experience in both research and teaching at the university level.
+
+---
+
+## Erdogan Kaya
+
+**Concerns**
+- Research focus was unclear and not as well-aligned with the target area as other candidates.
+- Limited consideration of the undergraduate context in research and teaching statements.
+- Lack of enthusiasm from partner units during on-campus visit
+
+---
+
+## Victoria Macann - Strengths
+
+- Research focused on AI and computing education with a strong emphasis on inclusion and diversity, particularly motivational aspects of barriers to broadening participation.
+- Engagement throughout visit demonstrated clear alignment with CMSE's mission and values.
+- Evidence of strong teaching and mentoring; expressed explicit interest in CMSE 201, 202, and developing computing courses for non-majors.
+- Enthusiastic response from CMSE community and candidate-identified partner units (CREATE and CEPSE) during visit.
+
+---
+
+## Victoria Macann - Concerns
+
+- Limited research record due to being a recent Ph.D. graduate.
+- Prior connections to MSU (e.g., Fulbright) may confer familiarity and visibility not shared by other candidates, which the committee discussed as a potential bias in evaluation.
+- Research presentation did not address concrete methodological plans for tackling the barriers her work identifies.
+
+---
+
+## Si Chen - Strengths
+
+- Research focused on AI education with a strong emphasis on accessibility and inclusion, particularly for learners with disabilities, with concrete methodological contributions and plans to address barriers.
+- Engagement throughout visit demonstrated clear alignment with CMSE's mission and values.
+- Evidence of strong teaching and mentoring across a range of instructional contexts; discussed a broad range of undergraduate and graduate courses across both interviews.
+- Enthusiastic response from CMSE community and candidate-identified partner units (CREATE and CSE) during visit.
+
+---
+
+## Si Chen - Concerns
+
+- Limited research record due to being a recent Ph.D. graduate.
+- During the on-campus interview, addressed only the new course development portion of the undergraduate teaching question; broader course interest was evident from the phone interview.
+
+---
+
+# Committee Recommendation
+
+* The search committee considers both **Victoria Macann** and **Si Chen** above threshold for the position.
+* The search committee did not rank the two finalists relative to each other. 
+* **Macann** appears to have a strong case for a joint appointment in CEPSE, while **Chen** appears to have a strong case for a joint appointment in CSE.
+
+> The committee decided that given the nature of the potential appointments and difference in research foci, it would be better to advance both candidates for further consideration by the faculty -- allowing them to recommend a ranking or preference if they choose, but not requiring it.
