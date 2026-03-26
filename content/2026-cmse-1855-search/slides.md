@@ -1,6 +1,6 @@
 ---
 marp: true
-title: 1855 Search – AdCom Briefing (Factual Overview + Rubrics)
+title: 1855 Search – Faculty Meeting (Factual Overview + Rubrics)
 paginate: true
 theme: default
 ---
@@ -129,7 +129,7 @@ _color: #18453B
 -->
 
 # 1855 Search – AI in STEM Education  
-## AdCom Briefing
+## Faculty Briefing
 
 **Search Committee$^1$**
 Danny Caballero, Jenny Green, Dawson Kinsman, Yuying Xie, Mengsen Zhang
@@ -248,11 +248,11 @@ CSE and CEPSE were asked for feedback on a potential joint appointment in prepar
 
 ## Erdogan Kaya — Scholarship, Teaching, Service
 
-**Research & Publications (examples)**  
+**Research & Publications**  
 - 21 Peer‑reviewed journal publications (6 in high-impact journals); 14 conference proceedings
 
-**Grants & External Funding (selected)**  
-- Multiple funded projects as PI or co‑PI, including NSF CSforALL and NSF RAPID awards focused on AI, computing, and STEM education.
+**Grants & External Funding**  
+- Multiple funded projects including NSF CSforALL and NSF RAPID awards focused on AI, computing, and STEM education (3 Co-PI, 3 collaborative PI).
 
 **Teaching & Outreach**  
 - University‑level teaching in computer science methods, technology integration, and project‑based learning.
@@ -289,13 +289,16 @@ CSE and CEPSE were asked for feedback on a potential joint appointment in prepar
 
 ## Victoria Macann — Scholarship, Teaching, Service
 
-**Research & Publications (examples)**  
+**Research & Publications**  
 - 6 Peer‑reviewed journal articles (3 in high impact journals); 4 conference publications 
+
+**Grants & External Funding** 
+- Funded NSF grant at OSU (unable to PI)
 
 **Teaching & Professional Practice**  
 - University teaching in AI, data science, and educational technology.
-- Professional development facilitation for K–12 teachers focused on AI, computational thinking and technology integration.
-- Cultural competent teaching included bilingual teachers and developing Māori-specific resources
+- Professional development facilitation for K–12 teachers focused on AI/CT.
+- Cultural competent teaching - developing Māori-specific resources.
 
 ---
 
@@ -322,13 +325,23 @@ CSE and CEPSE were asked for feedback on a potential joint appointment in prepar
 
 ## Si Chen — Scholarship, Teaching, Service
 
-**Research & Publications (examples)**  
-- 6 Peer‑reviewed publications in conference proceedings 
+**Research & Publications**  
+- 6 Peer‑reviewed journal articles (5 in ACM HCI - high impact); 14 conference publications 
 
 **Teaching & Mentoring**  
 - Developed and teaching AI courses for educators at ND
 - Teaching assistant roles in data science and HCI courses.
 - Instruction and mentoring in computational thinking programs for blind, visually impaired, deaf, and hard‑of‑hearing learners.
+
+---
+
+## A Comment on Publications
+
+Much like other fields, in Education Research, there are tiers of publications:
+
+1. **Peer-reviewed Journal Articles** - longer articles (12-50+ pages); usual review processes. Highly valued across sub-fields. (*e.g., Computers and Education, International Journal of STEM Education*)
+2. **Peer-reviewed Conference Proceedings** - shorter articles (2-6 pages); some form of review. Highly valued in some fields; varied quality and impact (*e.g., ACM Conference Proceedings*)
+3. **Peer-reviewed Conference Abstracts/Presentations** - quite short writing (500-2000 words); peer reviewed often to allow author to present. Highly valued in some fields; varied quality and impact.
 
 ---
 
@@ -405,8 +418,8 @@ The search committee considers **Erdogan Kaya** below threshold for the position
 | Candidate | Phd | Research agenda | Teaching Experience | Response from partners |
 |-----------|----|-----------------|--------------|-------------|
 | Kaya | 2020 | Less coherent than others<br>(21+14 pubs; 7 grants) | Broad Contexts & Significant in Classroom | Uninterested |
-| Macann | 2025 | AI/LLM in UG contexts<br>(6+4 pubs, 1 grant) | Broad Contexts & In Classroom | Strong Interest (CEPSE) |
-| Chen | 2024 | Computing/AI with the Disabled (0+6 pubs) | Broad Contexts & Less In Classroom | Interest (CSE); Tempered (CEPSE)
+| Macann | 2025 | AI/LLM in UG contexts<br>(6+4 pubs; 1 grant) | Broad Contexts & In Classroom | Strong Interest (CEPSE) |
+| Chen | 2024 | Computing/AI with the Disabled (6+14 pubs) | Broad Contexts & Less In Classroom | Interest (CSE); Tempered (CEPSE) |
 
 
 ---
