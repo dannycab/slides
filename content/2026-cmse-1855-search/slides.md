@@ -370,7 +370,7 @@ The search committee considers **Erdogan Kaya** below threshold for the position
 - Research focus was unclear and not as well-aligned with the target area as other candidates.
 - Limited consideration of the undergraduate context in research and teaching statements.
 - Lack of enthusiasm from partner units during on-campus visit.
-  - Neither CEPSE nor CSE are interested in this candidate.
+  - *Neither CEPSE nor CSE are interested in this candidate.*
 - Six years as faculty (GMU, UT Arlington); lack of coherent research agenda
 
 ---
@@ -415,11 +415,10 @@ The search committee considers **Erdogan Kaya** below threshold for the position
 
 ## Candidate Comparison
 
-| Candidate | Phd | Research agenda | Teaching Experience | Response from partners |
+| Candidate | Phd | Research | Teaching  |  Partners |
 |-----------|----|-----------------|--------------|-------------|
-| Kaya | 2020 | Less coherent than others<br>(21+14 pubs; 7 grants) | Broad Contexts & Significant in Classroom | Uninterested |
-| Macann | 2025 | AI/LLM in UG contexts<br>(6+4 pubs; 1 grant) | Broad Contexts & In Classroom | Strong Interest (CEPSE) |
-| Chen | 2024 | Computing/AI with the Disabled (6+14 pubs) | Broad Contexts & Less In Classroom | Interest (CSE); Tempered (CEPSE) |
+| Macann | 2025 | AI/computing education with emphasis on inclusion/diversity; motivation & barriers to participation<br>(6+4 pubs; 1 grant) | Broad Contexts & In Classroom | Interest (CEPSE) |
+| Chen | 2024 | AI education accessibility for learners with disabilities; concrete methods & barrier-reduction strategies (6+14 pubs) | Broad Contexts & Less In Classroom | Interest (CSE); Potentially (CEPSE) |
 
 
 ---
