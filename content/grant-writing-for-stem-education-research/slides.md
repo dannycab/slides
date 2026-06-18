@@ -11,7 +11,7 @@ author: Danny Caballero
 <!-- _class: title -->
 
 # Grant Writing for STEM Education Research
-## Turning Your Ideas into Funded Projects
+## Turning Your Ideas into Funded Projects!
 
 
 ---
