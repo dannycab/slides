@@ -1,0 +1,30 @@
+# Grant Writing Slides - just commands
+
+# Display all available commands
+@help:
+    just --list
+
+# Serve slides in browser with live reload
+serve:
+    marp --html --server slides/
+
+# Build slides to HTML
+build:
+    marp --html slides/slides.md -o slides/grant-writing-slides.html
+
+# Generate PDF
+pdf:
+    marp --pdf slides/slides.md -o slides/grant-writing-slides.pdf
+
+# Generate PNG preview
+preview:
+    marp --image png slides/slides.md -o slides/preview.png
+
+# Build everything (html + pdf + preview)
+all: build pdf preview
+    @echo "✓ Built HTML, PDF, and preview"
+
+# Clean generated files
+clean:
+    rm -f slides/*.html slides/*.pdf slides/*.png
+    @echo "✓ Cleaned generated files"
